@@ -1,4 +1,4 @@
-# Latexa academic CV template
+# Latex academic CV template
 
 This is a modified version of [my-latex-cv](https://github.com/PrimozGodec/my-latex-cv) by [Primož Godec](https://github.com/PrimozGodec). The changes include:
 
