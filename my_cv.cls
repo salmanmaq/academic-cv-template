@@ -1,5 +1,5 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{my_cv}[2021/08/25 My CV class]
+\ProvidesClass{my_cv}[2021/09/07 My CV class]
 
 \LoadClass[a4paper]{article}
 \RequirePackage{fontawesome}  % fonts
